@@ -1,4 +1,4 @@
-@import url("htpps://fonts.googleapis.com/css?family=Roboto&display=swap");
+
 
 * {
   box-sizing: border-box;
@@ -7,7 +7,7 @@
 body {
   background-color: #296ca8;
   color: white;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   display: flex;
   flex-direction: column;
 
